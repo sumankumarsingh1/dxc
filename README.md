@@ -10,7 +10,8 @@ I can do some inline `code`
 # A comment section of code can come here
 echo `Hello World`
 echo `$VARIABLE`
-a = b + 10 
+a = b +  10
+ 
 ```
 
 Line one followed by spaces  
